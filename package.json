@@ -1,0 +1,25 @@
+{
+  "name": "sre-mathmaps-ie",
+  "version": "3.3.1",
+  "description": "SRE MathMaps for Internet Explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Speech-Rule-Engine/sre-mathmaps-ie.git"
+  },
+  "keywords": [],
+  "author": "Volker Sorge <volker.sorge@gmail.com> (http://www.cs.bham.ac.uk/~vxs)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Speech-Rule-Engine/sre-mathmaps-ie/issues"
+  },
+  "homepage": "https://github.com/Speech-Rule-Engine/sre-mathmaps-ie#readme",
+  "files": [
+    "LINCENSE",
+    "README.md",
+    "mathmaps_ie.js"
+  ]
+}
