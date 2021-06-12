@@ -1,6 +1,6 @@
 {
   "name": "sre-mathmaps-ie",
-  "version": "3.3.3",
+  "version": "4.0.0-alpha.1",
   "description": "SRE MathMaps for Internet Explorer",
   "main": "index.js",
   "scripts": {
